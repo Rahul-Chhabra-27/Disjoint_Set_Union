@@ -3,6 +3,7 @@
 using namespace std;
 
 #define ll   long long int
+#define vi   vector<int> vi;
 // find the leader of set
 // Time complexity will be O(n);
 int find(vector<ll> &parent,ll i) {
